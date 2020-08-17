@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Maundy
-Template URL: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
+Template Name: Knight
+Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
